@@ -1,0 +1,73 @@
+﻿  FrmMenu.cpp
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Entidad.h(33,25): warning C4552: '+': result of expression not used
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Entidad.h(34,25): warning C4552: '+': result of expression not used
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(12,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(27,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(27,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(42,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(42,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(44,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(45,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(70,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(70,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(84,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(84,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(86,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(87,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(25,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(25,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(33,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(33,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(58,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(58,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(83,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(83,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(52,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(52,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(57,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(57,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(59,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(60,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(10,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(22,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(22,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(36,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(36,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VirusKiller.cpp
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Entidad.h(33,25): warning C4552: '+': result of expression not used
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Entidad.h(34,25): warning C4552: '+': result of expression not used
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(12,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(27,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(27,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(42,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(42,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(44,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(45,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(70,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(70,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(84,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(84,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(86,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Virus.h(87,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(25,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(25,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(33,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Bonificacion.h(33,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(58,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(58,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(83,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Jugador.h(83,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(52,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(52,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(57,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(57,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(59,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Vacuna.h(60,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(10,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(22,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(22,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(36,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\Covid.h(36,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  FrmMenu.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FinalProject.vcxproj -> C:\Users\Usuario\source\repos\FinalProject\x64\Debug\FinalProject.exe

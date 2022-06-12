@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\x64\Debug\FinalProject.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\x64\Debug\FinalProject.VirusKiller.resources
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\x64\Debug\FinalProject.vcxproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\FinalProject\FinalProject\x64\Debug\FinalProject.FrmMenu.resources
